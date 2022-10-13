@@ -14,3 +14,5 @@ We have made use of various datasets which can be generalized into two types:
 
 ## Tools:
 Google Colab
+
+Link to colab: https://colab.research.google.com/drive/1wYUqA5g4urobK5gMzF_Np4Tq5CTljRee#scrollTo=84d0c392
